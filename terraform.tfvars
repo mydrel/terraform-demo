@@ -1,0 +1,5 @@
+region = "us-west-1"
+ami = "ami-018d291ca9ffc002f"
+instance-type = "t2.micro"
+keypair = "testkey"
+name = "hermantest"
